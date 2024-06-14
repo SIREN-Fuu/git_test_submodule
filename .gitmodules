@@ -1,0 +1,3 @@
+[submodule "git_test_core"]
+	path = git_test_core
+	url = https://github.com/SIREN-Fuu/git_test_core.git
